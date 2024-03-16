@@ -28,10 +28,10 @@ Access your application through a web browser using the appropriate URL.
 Test the application.
 
 
-# HTML, CSS and JAVASCRIPT code 
+## HTML, CSS and JAVASCRIPT code 
 
 
-## index.html => login-page code
+### index.html => login-page code
 
     <title>User Form</title>
    ### CSS code: 
