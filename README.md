@@ -1,30 +1,30 @@
 # To set up and run the web application, follow these steps:
 
-## 1.Setting Up the Environment:
+### 1.Setting Up the Environment:
 Install MySQL server.
 Set up a MySQL database and create a table to store user data.
 Install apache-tomcat-8.5.99.
 
-## 2.Project Structure:
+### 2.Project Structure:
 Create a Dynamic web project, including files HTML, Java class and necessary files.
 
-## 3.Database Configuration:
+### 3.Database Configuration:
 Configure your Java application to connect to the MySQL database. This typically involves setting up a JDBC connection.
 Provide the necessary database credentials (username, password, database URL) in your Java Servlet code or in a separate configuration file.
 
-## 4.Creating the User Input Form:
+### 4.Creating the User Input Form:
 Develop an HTML form with fields for Name, Email, Age, and Date of Birth.
 
-## 5.Java Servlet for Data Storage:
+### 5.Java Servlet for Data Storage:
 Create a Java Servlet to handle form submissions.
 If the data is valid, store it in the MySQL database using JDBC.
 
-## 6.Deploying the Application:
+### 6.Deploying the Application:
 Compile your Java Servlets.
 Start your Servlet container.
 Access your application through a web browser using the appropriate URL.
 
-## 7.Testing:
+### 7.Testing:
 Test the application.
 
 
