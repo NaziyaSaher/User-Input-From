@@ -1,4 +1,4 @@
-# To set up and run the web application, follow these steps:
+## To set up and run the web application, follow these steps:
 
 ### 1.Setting Up the Environment:
 Install MySQL server.
@@ -105,6 +105,7 @@ Test the application.
             margin-top: 5px;
         }
     </style>
+
 ### HTML code: 
 </head>
 <body>
@@ -158,7 +159,7 @@ Test the application.
 </html>
 
 
-## display.html
+### display.html
 
 <!DOCTYPE html>
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
@@ -214,7 +215,7 @@ Test the application.
 </body>
 </html>
 
-# Java code:
+# Java(JDBC & JEE) code:
 ## This code is for connecting database to server.
 
 ### RegisterSeevlet.java
